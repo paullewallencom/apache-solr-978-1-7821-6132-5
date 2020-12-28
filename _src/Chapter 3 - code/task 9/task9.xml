@@ -1,0 +1,7 @@
+﻿<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr.pl company</field>
+  <field name="location">54.02,23.10</field>
+ </doc>
+</add>

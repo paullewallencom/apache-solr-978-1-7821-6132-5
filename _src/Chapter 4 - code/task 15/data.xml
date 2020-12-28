@@ -1,0 +1,9 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr Cookbook 4.0</field>
+  <field name="price_usd">40.00</field>
+  <field name="price_pln">120.00</field>
+  <field name="price_eur">30.00</field>
+ </doc>
+</add>

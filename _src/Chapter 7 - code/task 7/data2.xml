@@ -1,0 +1,12 @@
+﻿<add>
+ <doc>
+  <field name="id">2</field>
+  <field name="userName">user2</field>
+  <field name="data">Data of user2</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="userName">user2</field>
+  <field name="data">Another data of user2</field>
+ </doc>
+</add>

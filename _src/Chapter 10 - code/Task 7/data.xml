@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr 3.1 CookBook</field>
+  <field name="published">2011-02-02T12:00:00Z</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Solr 4.0 CookBook</field>
+  <field name="published">2012-10-01T12:00:00Z</field>
+ </doc>
+</add>

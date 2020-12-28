@@ -1,0 +1,15 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Book 1</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Book 2</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Promoted document</field>
+ </doc>
+</add>
+

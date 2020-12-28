@@ -1,0 +1,7 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr Cookbook 4.0</field>
+  <field name="description">Solr Cookbook 4.0 contains multiple recipes helping you with your every day work with Solr :)</field>
+ </doc>
+</add>

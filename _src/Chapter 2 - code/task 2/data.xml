@@ -1,0 +1,7 @@
+<add>
+ <doc>
+  <field name="name">Test name</field>
+  <field name="text">Test text contents</field>
+ </doc>
+</add>
+

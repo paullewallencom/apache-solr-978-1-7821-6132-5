@@ -1,0 +1,10 @@
+<add>
+ <doc>
+  <field name="name">This is a book we are indexing and we think it will be a dupe because it's almost the same as the second document we are going to index</field>
+  <field name="type">book</field>
+ </doc>
+ <doc>
+  <field name="name">This is the book we are indexing and we think it will be a dupe because it's almost the same as the second document we are going to index</field>
+  <field name="type">book</field>
+ </doc>
+</add>

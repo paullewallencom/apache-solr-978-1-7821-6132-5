@@ -1,0 +1,7 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="description_string">test text</field>
+  <field name="description_split">test text</field>
+ </doc>
+</add>
